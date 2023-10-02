@@ -19,7 +19,6 @@ class _InitialPageState extends State<InitialPage> {
         title: const Text(
           "Imagens + StatefulWidget",
           style: TextStyle(
-            m
             fontSize: 25,
             fontWeight: FontWeight.bold,
             color: Colors.white,
